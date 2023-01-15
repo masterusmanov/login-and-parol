@@ -1,0 +1,13 @@
+.two_div{
+    background-image: url('https://haqida.su/wp-content/uploads/2018/03/SAMARQAND.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 270vh;
+    position: relative;
+}
+
+
+.three_div{
+    background-color: #4B515D;
+    height: 40vh;
+}
